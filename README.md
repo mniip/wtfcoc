@@ -2,7 +2,7 @@
 WTFCoC
 ======
 
-This is a response to the recent surge of Codes of Conduct to police community behavior. We think such restrictions are unnecessary and rude. Given that an open-source contributor does not constantly bring their oppressed demographic into discussion as a means to gain favor, it is unnecessary to actually set rules about discriminating minorities. We're all equal on the Internet. 
+This is a response to the recent surge of Codes of Conduct to [police community behavior](http://todogroup.org/opencodeofconduct/). We think such restrictions are unnecessary and rude. Given that an open-source contributor does not constantly bring their oppressed demographic into discussion as a means to gain favor, it is unnecessary to actually set rules about discriminating minorities. We're all equal on the Internet. 
 
 It is often the case that code projects are open to contributions but simply have no interested parties to contribute code, which means the last thing the owners will look at in a contribution is the author's gender, age, or any other detail unrelated to their actual changes to the codebase. As well as that, the contributor is always free to omit any of the preceding details from their online profile. We all start out equal on the internet.
 
